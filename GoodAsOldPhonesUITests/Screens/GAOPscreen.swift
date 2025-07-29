@@ -2,7 +2,7 @@
 //  GAOPscreen.swift
 //  GoodAsOldPhonesUITests
 //
-//  Created by saikumarreddy desireddy on 24/06/25.
+//  Created by Koti Uppala on 24/06/25.
 //  Copyright © 2025 Code School. All rights reserved.
 //
 
